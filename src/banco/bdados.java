@@ -85,7 +85,6 @@ public final class bdados extends JFrame implements ActionListener{
                 bt_manu_search     = new JButton("Buscar");
 
 		ta_status_a 		= new TextArea();
-
 		ta_status_a.setEditable(false);
 		
 		bt_config_con.setText("Conectar");
