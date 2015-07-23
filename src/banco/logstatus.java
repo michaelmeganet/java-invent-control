@@ -7,7 +7,6 @@ public class logstatus{
 	logstatus(String txt){
 		this.addNewEvent(txt);
 	}
-        
         public void showError(int exceptionerror){
             switch(exceptionerror){
                 case 1045:
