@@ -2,6 +2,6 @@ This is a inventory control made in Java which currently supports MySQL and MS A
 
 TODO:
 * Oracle connection;
-* Implement more fields.
+* Implementation of more fields.
 
 Developed by Marcelo Castro
